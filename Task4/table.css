@@ -1,0 +1,17 @@
+body {
+    background-color: lightslategray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+td, th {
+    background-color: lightcyan;
+    border: 3px solid darkblue;
+    padding: 10px;
+    text-align: center;
+}
+
+table {
+    border: 3px solid black;
+}
